@@ -1,0 +1,19 @@
+// === DIMENSIONS === //
+$device-width: 320px;
+$device-height: $device-width*1.5;
+$pad-size: $device-width/4;
+
+// === FONTS === //
+$font-body: 'Quicksand', sans-serif;
+$font-size-normal: 2em;
+$font-size-big: 2.5em;
+$font-size-small: 0.9em;
+
+// === COLOURS === //
+$color-main: #2A2637;
+$color-accent: #7058C4;
+$color-d: #8775c4;
+$color-m: #9b8fc4;
+$color-l: #aca5c3;
+$color-w: #F0E5DE;
+$gradient: linear-gradient(to left, #a18cd1 0%, #fbc2eb 100%);
